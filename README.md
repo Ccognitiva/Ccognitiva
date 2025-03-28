@@ -36,9 +36,9 @@ Check out our projects in the repositories section! Stay tuned for open-source A
 ## 🤝 Join Us
 Interested in AI and ML? We welcome students, researchers, and developers to collaborate and grow with us!
 
-[📧 Contact us:](wy162466@students.cavendish.ac.ug) 
-[🌐 Visit our website:](https://www.cavendish.ac.ug/) 
-[🐦 Follow us on Twitter:](https://x.com/cavendishug?lang=en) 
+- [📧 Contact us:](wy162466@students.cavendish.ac.ug) 
+- [🌐 Visit our website:](https://www.cavendish.ac.ug/) 
+- [🐦 Follow us on Twitter:](https://x.com/cavendishug?lang=en) 
 
 ---
 **Cavendish Cognitiva – Shaping the Future of AI at Cavendish University Uganda!** 🚀
