@@ -4,6 +4,8 @@
 
 Welcome to **Cavendish Cognitiva**, the official AI and Machine Learning research team at Cavendish University Uganda! We are a passionate team of innovators dedicated to advancing artificial intelligence, deep learning, and data-driven solutions.
 
+![ml banner](https://www.istockphoto.com/vector/machine-learning-banner-logo-for-technology-ai-big-data-algorithm-neural-network-gm1273072739-375131265) 
+
 ## 🌟 About Us
 Cavendish Cognitiva is a student-led AI research group focused on:
 - Developing **cutting-edge machine learning models** 🏆
